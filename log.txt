@@ -1,0 +1,4 @@
+# Archivo de logs
+
+Version 1 creado
+Version 2 commit
